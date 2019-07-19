@@ -17,7 +17,24 @@ export default {
 </script>
 
 <style>
+	
+	
+	/* 
+	line-height:文字垂直居中 http://www.divcss5.com/rumen/r363.shtml
+	
+	旋转：
+	transform:rotate(30deg);
+	
+	加边框
+	border-width: 2px;
+	border-style: solid;
+	border-color: gray;
+	
+	
+	
+	*/
 #app {
+	
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,3 +43,12 @@ export default {
   margin-top: 60px;
 }
 </style>
+
+
+
+
+
+
+
+
+
