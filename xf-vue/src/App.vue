@@ -21,15 +21,43 @@ export default {
 	
 	/* 
 	
+	字符串在html中的页面中的换行 white-space: pre
+	http://www.imooc.com/article/288241?block_id=tuijian_wz
+	
+	
+	作者：流浪杭州
+	链接：http://www.imooc.com/article/288241?block_id=tuijian_wz
+	来源：慕课网
+	
+	
+	<button>标签
+	
+	阻止时间传递，创建2个平级的view，遮罩，在同一个父view上
+	
+	v-if 的使用
+	
+	vue中ckeckbox(复选框)的使用，及对click事件和change的理解
+	https://blog.csdn.net/MMryyy/article/details/95216247
+	
+	
 	Cannot read property 'slice' of undefined
 	https://blog.csdn.net/qq6759/article/details/90711604
 	1.错误可能由于数组或对象未定义或为null 引起的，所以查看获取数据的接口是否请求到了数据。
 	2.查看返回的数据格式是否和之前的数据格式一致。
 	
 	
+	vue中过滤器filters的使用
+	https://www.cnblogs.com/shenmissing/p/9039718.html
+	
 	js判断字符是否为空的方法
 	https://www.cnblogs.com/shuilangyizu/p/7744111.html
 	
+	
+	
+	Unexpected token o in JSON at position 1
+	https://blog.csdn.net/qq_41999617/article/details/83511002
+	JSON.parse() 方法用于将一个 JSON 字符串转换为对象,如
+	JSON.stringify() 方法是将一个JavaScript值(对象或者数组)转换为一个 JSON字符串，如
 	
 	console.log('-------' + printData)
 	var s = JSON.stringify(printData);
