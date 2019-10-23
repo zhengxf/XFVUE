@@ -20,6 +20,16 @@ export default {
 	
 	
 	/* 
+	计算属性
+	
+	js的日期操作：String转date日期格式、求日期差
+	https://www.cnblogs.com/spll/p/9686689.html
+	
+	JavaScript toISOString() 方法
+	https://www.runoob.com/jsref/jsref-toisostring.html
+	
+	
+	命令行运行JS node xxx.js
 	
 	字符串在html中的页面中的换行 white-space: pre
 	http://www.imooc.com/article/288241?block_id=tuijian_wz
