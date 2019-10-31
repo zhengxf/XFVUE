@@ -22,6 +22,10 @@ export default {
 	/* 
 	计算属性
 	
+	Safari、火狐时间格式 不支持 -，需要写成/
+	let startTime = nowDate.getFullYear() + '/' + nowDate.getMonth() + '/' + nowDate.getDate() + ' 00:00:00'
+	
+	
 	js的日期操作：String转date日期格式、求日期差
 	https://www.cnblogs.com/spll/p/9686689.html
 	
