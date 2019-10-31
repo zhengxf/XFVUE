@@ -22,6 +22,11 @@ export default {
 	/* 
 	计算属性
 	
+	vue—data中变量和字符串拼接
+	https://www.cnblogs.com/baby-zuji/p/9825208.html
+	当您的拖欠运费总额大于欠费信用额度${this.scoreStr}元，或拖欠时间超过${this.days}天时，将会对店铺造成影响。`
+	
+	
 	Safari、火狐时间格式 不支持 -，需要写成/
 	let startTime = nowDate.getFullYear() + '/' + nowDate.getMonth() + '/' + nowDate.getDate() + ' 00:00:00'
 	
