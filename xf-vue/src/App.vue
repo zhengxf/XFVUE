@@ -22,6 +22,33 @@ export default {
 	/* 
 	计算属性
 	
+	babel-polyfill报错,only one instance of babel-polyfill is allowed
+	重新install
+	
+	
+	
+	Vue文本框限制输入字数
+	https://www.jianshu.com/p/60a34e3814db
+	
+	Vue实现动态显示textarea剩余字数
+	https://www.jb51.net/article/114382.htm
+	
+	
+	vue 封装 checkbox 组件
+	checkbox在vue中的用法总结
+	
+	https://www.cnblogs.com/fozero/p/9952010.html
+	
+	
+	
+	js 字符串 boolean 转化
+	JS中字符串的true转化为boolean类型的true
+	https://www.cnblogs.com/7qin/p/10198230.html
+	js中对象可以转化成 字符串、数字、布尔值
+	https://www.cnblogs.com/lihuijuan/p/9643570.html
+	
+	
+	
 	vue—data中变量和字符串拼接
 	https://www.cnblogs.com/baby-zuji/p/9825208.html
 	当您的拖欠运费总额大于欠费信用额度${this.scoreStr}元，或拖欠时间超过${this.days}天时，将会对店铺造成影响。`
